@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Robotics 🤖, Embedded ⚙️ and Control 🕹️ Engineer </h3>
 
 
-
-- 🔭 I’m currently working on Robomaster University AI Challenge
+- 👨‍🎓 Final year EEE students in Nanyang Technological University (NTU)
+- 🔭 I’m currently working on [Robomaster University AI Challenge](https://www.robomaster.com/en-US/robo/icra?djifrom=nav)
 - 🌱 I’m currently learning **Deep Reinforcement Learning**
-- 🥅 2022 Goals: Learn more about ROS2 Framework
+- 🥅 2022 Goals: Learn more about **ROS2 Framework**
+- 📫 How to reach me: **nelsenedbert@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
