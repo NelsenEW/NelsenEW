@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [Robomaster University AI Challenge](https://www.robomaster.com/en-US/robo/icra?djifrom=nav)
 - 🌱 I’m currently learning **Deep Reinforcement Learning**
 - 🥅 2022 Goals: Learn more about **ROS2 Framework**
+- 🔎 Open to work for **Robotics/Autonomous Vehicle/Control/Embedded Engineer**
 - 📫 How to reach me: **nelsenedbert@gmail.com**
 
 
