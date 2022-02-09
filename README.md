@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Understand and deploy robots with [**ROS2 Framework**](https://design.ros2.org/articles/why_ros2.html)
 - 🔭 I’m currently working on [Robomaster University AI Challenge](https://www.robomaster.com/en-US/robo/icra?djifrom=nav)
 - 🌱 Learning to apply **Deep Reinforcement Learning** for Robotics
-- 🔎 Open to work for **Robotics/Autonomous Vehicle/Control/Embedded Engineer**
+- 🔎 Open to work as **Robotics/Autonomous Vehicle/Control/Embedded Engineer**
 - 📫 How to reach me: **nelsenedbert@gmail.com**
 
 
