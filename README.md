@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education**: Electrical and Electronic Engineering (EEE) graduate from Nanyang Technological University (NTU)
+- 🎓 **Education**: Electrical and Electronic Engineering (EEE) graduate from Nanyang Technological University (NTU) with 4 years on the Dean's List 
 - 🚀 **2025 Goals**: Pioneering advancements in autonomous navigation, AI-driven decision systems, and high-performance embedded computing
 - 🤖 **Expertise**: Advanced motion planning, sensor fusion algorithms, intelligent control frameworks, and autonomous decision-making
 
@@ -26,7 +26,8 @@ I specialize in developing intelligent autonomous systems with emphasis on:
 
 ## 🏆 Key Achievements
 
-- Contributed to award-winning solutions for the Robomaster University AI Challenge, Winning Third Place in 2022
+- Achieved Dean's List honors for all 4 years of undergraduate studies
+- **Won 3rd Place in the International Robomaster Competition** - a prestigious global robotics challenge
 - Design reliability and efficient software using best practices in multiple languages
 - Developed real-time autonomous navigation systems for dynamic environments
 - Implemented machine learning models for predictive control in robotic applications
@@ -49,20 +50,6 @@ Autonomous Vehicle Engineer | AI Robotics Specialist | Motion Planning Expert | 
   - Computer Vision
   - Embedded Systems Programming
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats-nelsenews-projects.vercel.app/api/top-langs?username=nelsenew&show_icons=true&locale=en&layout=compact" alt="nelsenew" />
-  <img height="170" align="center" src="https://github-readme-stats-nelsenews-projects.vercel.app/api?username=nelsenew&show_icons=true&locale=en" alt="nelsenew" />
-</div>
-
----
-
-<div align="center">
-  <i>Pioneering the future of autonomous robotics with intelligent control systems and AI-driven decision making</i>
-</div>
-
-
 ## 🛠️ Technical Stack
 
 <p align="left">
@@ -77,3 +64,17 @@ Autonomous Vehicle Engineer | AI Robotics Specialist | Motion Planning Expert | 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+
+## 📊 GitHub Stats
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats-nelsenews-projects.vercel.app/api/top-langs?username=nelsenew&show_icons=true&locale=en&layout=compact" alt="nelsenew" />
+  <img height="170" align="center" src="https://github-readme-stats-nelsenews-projects.vercel.app/api?username=nelsenew&show_icons=true&locale=en" alt="nelsenew" />
+</div>
+
+---
+
+<div align="center">
+  <i>Pioneering the future of autonomous robotics with intelligent control systems and AI-driven decision making</i>
+</div>
