@@ -1,32 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nelsen Edbert Winata</h1>
-<h3 align="center">A passionate Robotics 🤖, Embedded ⚙️ and Control 🕹️ Engineer </h3>
+<div align="center">
+  
+# 👋 Hi, I'm Nelsen Edbert Winata
+
+### Robotics 🤖 | Autonomous Systems 🚗 | AI-Driven Control 🧠
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsenew)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsenedbert@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsenew)
+
+</div>
+
+## 🧠 About Me
+
+- 🎓 **Education**: Electrical and Electronic Engineering (EEE) graduate from Nanyang Technological University (NTU)
+- 🚀 **2025 Goals**: Pioneering advancements in autonomous navigation, AI-driven decision systems, and high-performance embedded computing
+- 🤖 **Expertise**: Advanced motion planning, sensor fusion algorithms, intelligent control frameworks, and autonomous decision-making
+
+## 🔬 Research & Development Focus
+
+I specialize in developing intelligent autonomous systems with emphasis on:
+
+- **Motion Planning & Control**: Trajectory optimization, path planning algorithms (RRT*, A*, MPC), and dynamic obstacle avoidance
+- **Autonomous Navigation**: SLAM, localization techniques, and multi-sensor fusion for robust environmental perception
+- **AI Integration**: Reinforcement learning for robotic control, computer vision for scene understanding, and predictive modeling
+
+## 🏆 Key Achievements
+
+- Contributed to award-winning solutions for the Robomaster University AI Challenge, Winning Third Place in 2022
+- Design reliability and efficient software using best practices in multiple languages
+- Developed real-time autonomous navigation systems for dynamic environments
+- Implemented machine learning models for predictive control in robotic applications
+
+## 💼 Professional Specialization
+
+```
+Autonomous Vehicle Engineer | AI Robotics Specialist | Motion Planning Expert | Embedded Systems Engineer
+```
+
+## 🔧 Core Competencies
+
+- **Languages**: Python, C++, C
+- **Frameworks**: ROS/ROS2, TensorFlow, PyTorch, OpenCV
+- **Tools**: Docker, Git, Linux, CUDA
+- **Skills**: 
+  - Motion Planning & Control
+  - Sensor Fusion (LiDAR, Camera, IMU)
+  - Machine Learning & Deep RL
+  - Computer Vision
+  - Embedded Systems Programming
+
+## 📊 GitHub Stats
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats-nelsenews-projects.vercel.app/api/top-langs?username=nelsenew&show_icons=true&locale=en&layout=compact" alt="nelsenew" />
+  <img height="170" align="center" src="https://github-readme-stats-nelsenews-projects.vercel.app/api?username=nelsenew&show_icons=true&locale=en" alt="nelsenew" />
+</div>
+
+---
+
+<div align="center">
+  <i>Pioneering the future of autonomous robotics with intelligent control systems and AI-driven decision making</i>
+</div>
 
 
-- 👨‍🎓 Final year EEE students in Nanyang Technological University (NTU)
-- 🥅 2022 Goals: Understand and deploy robots with [**ROS2 Framework**](https://design.ros2.org/articles/why_ros2.html)
-- 🔭 I’m currently working on [Robomaster University AI Challenge](https://www.robomaster.com/en-US/robo/icra?djifrom=nav)
-- 🌱 Learning to apply **Deep Reinforcement Learning** for Robotics
-- 🔎 Open to work as **Robotics/Autonomous Vehicle/Control/Embedded Engineer**
-- 📫 How to reach me: **nelsenedbert@gmail.com**
+## 🛠️ Technical Stack
 
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nelsenew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelsenew" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://moveit.ros.org/assets/images/logo/ROS_logo.png" alt="ROS" width="70" height="40"/>
+  <img src="https://design.ros2.org/img/ros2.svg" alt="ROS2" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-
-<a href="https:/www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://moveit.ros.org/assets/images/logo/ROS_logo.png" alt="bash" width="70" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats-nelsenews-projects.vercel.app/api/top-langs?username=nelsenew&show_icons=true&locale=en&layout=compact" alt="nelsenew" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-nelsenews-projects.vercel.app/api?username=nelsenew&show_icons=true&locale=en" alt="nelsenew" /></p>
